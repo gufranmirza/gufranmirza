@@ -4,7 +4,7 @@
 
 ## I'm a Backend Developer
 
-- 🌱 I am currently working Distributed Systems and Microservices
+- 🌱 I am currently working on Distributed Systems and Microservices
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/gufranmirza//)
 - 😄 Pronouns: He/Him
 
