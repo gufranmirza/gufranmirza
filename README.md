@@ -7,6 +7,7 @@
 - 🌱 I am currently working on Distributed Systems and Microservices
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/gufranmirza//)
 - 😄 Pronouns: He/Him
+- Built https://ednsquare.com/ - A Blogging and QnA platform for Developers
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gufranmirza)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gufranmirza/)
