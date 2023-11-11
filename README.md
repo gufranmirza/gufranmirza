@@ -2,13 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Backend Developer
+https://gufranmirza.com
 
-- 🌱 I am currently working on Distributed Systems and Microservices
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/gufranmirza//)
-- 😄 Pronouns: He/Him
-- Founder [EdnSquare](https://ednsquare.com/) - A Blogging and QnA platform for Developers
-- Portfolio https://gufranmirza.com
+<br />
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gufranmirza)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gufranmirza/)
